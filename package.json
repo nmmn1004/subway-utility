@@ -37,8 +37,5 @@
       "last 1 safari version"
     ]
   },
-  "devDependencies": {
-    "gh-pages": "^6.3.0"
-  },
   "homepage": "http://nmmn1004.github.io/subway-utility"
 }
