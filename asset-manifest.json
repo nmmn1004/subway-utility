@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/subway-utility/static/css/main.8470a805.css",
+    "main.js": "/subway-utility/static/js/main.4b3ce60f.js",
+    "static/js/453.8d554edd.chunk.js": "/subway-utility/static/js/453.8d554edd.chunk.js",
+    "index.html": "/subway-utility/index.html",
+    "main.8470a805.css.map": "/subway-utility/static/css/main.8470a805.css.map",
+    "main.4b3ce60f.js.map": "/subway-utility/static/js/main.4b3ce60f.js.map",
+    "453.8d554edd.chunk.js.map": "/subway-utility/static/js/453.8d554edd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8470a805.css",
+    "static/js/main.4b3ce60f.js"
+  ]
+}
